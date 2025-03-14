@@ -10,16 +10,16 @@ The dictionary was obtained from the [RUWA dataset](https://github.com/ninakhair
 
 ## Dictionaries Included
 
-Edit-Distance-Based Dictionary (names_edit_distance.json)
+**Edit-Distance-Based Dictionary (`names_edit_distance.json`)**
 
 - Damerau-Levenshtein distance was used to group name variants
 
-Cosine-Similarity-Based Dictionary (names_cosine_similarity.json)
+**Cosine-Similarity-Based Dictionary (`names_cosine_similarity.json`)**
 
 - Cosine similarity was used to group name variants
 
 
-Manually-Corrected Dictionary (names_corrected.json)
+**Manually-Corrected Dictionary (`names_corrected.json`)**
 
 - Based on a manual review and correction of 500 groups of personal name variants.
 - The final output contains 542 refined name groups to ensure higher accuracy.
