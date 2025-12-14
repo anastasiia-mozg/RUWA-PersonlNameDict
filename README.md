@@ -6,7 +6,7 @@ This repository contains a dictionary of personal names extracted from news disc
 
 ## Data Source
 
-The dictionary was obtained from the [RUWA dataset](https://github.com/ninakhairova/dataset_RUWA), which contains news articles covering the Russian-Ukrainian war.
+The dictionary was obtained from the [RUWA dataset](https://github.com/ninakhairova/dataset_RUWA), which contains news articles covering the Russian-Ukrainian war. To get more information about the pipeline of data *pre-processing* and dictionary *creation*, you can read the [paper](https://ceur-ws.org/Vol-3976/paper4.pdf).
 
 ## Dictionaries Included
 
